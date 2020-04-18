@@ -1,3 +1,7 @@
 pandas
 plotly.express
 ipywidgets
+jupyterlab
+requests
+textblob
+voila
