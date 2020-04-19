@@ -5,3 +5,9 @@ jupyterlab
 requests
 textblob
 voila
+matplotlib
+tqdm
+numpy
+scipy
+pillow
+ipyleaflet
