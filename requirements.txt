@@ -3,3 +3,4 @@ ipywidgets
 ipysheet
 cufflinks
 sqlalchemy
+pymysql
