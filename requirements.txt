@@ -11,3 +11,6 @@ numpy
 scipy
 pillow
 ipyleaflet
+sqlalchemy
+ipysheet
+cufflinks
