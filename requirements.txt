@@ -1,16 +1,5 @@
 pandas
-plotly.express
 ipywidgets
-jupyterlab
-requests
-textblob
-voila
-matplotlib
-tqdm
-numpy
-scipy
-pillow
-ipyleaflet
 sqlalchemy
 ipysheet
 cufflinks
